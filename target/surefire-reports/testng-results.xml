@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[URL was launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Verification of Quote and Author was completed successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19391" started-at="2019-06-24T03:33:49Z" finished-at="2019-06-24T03:34:08Z">
+    <groups>
+    </groups>
+    <test name="Quote and Author Addition Session" duration-ms="19391" started-at="2019-06-24T03:33:49Z" finished-at="2019-06-24T03:34:08Z">
+      <class name="com.test.tests.TestCases">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.test.tests.TestCases@2cb4c3ab]" name="launchBrowser" is-config="true" duration-ms="4290" started-at="2019-06-23T22:33:49Z" finished-at="2019-06-23T22:33:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="identifyQuotes()[pri:0, instance:com.test.tests.TestCases@2cb4c3ab]" name="identifyQuotes" duration-ms="14589" started-at="2019-06-23T22:33:53Z" finished-at="2019-06-23T22:34:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[URL was launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Verification of Quote and Author was completed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- identifyQuotes -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:com.test.tests.TestCases@2cb4c3ab]" name="terminateBrowser" is-config="true" duration-ms="498" started-at="2019-06-23T22:34:08Z" finished-at="2019-06-23T22:34:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- com.test.tests.TestCases -->
+    </test> <!-- Quote and Author Addition Session -->
+  </suite> <!-- Suite -->
+</testng-results>
