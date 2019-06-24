@@ -1,6 +1,6 @@
 # Gideon Quote
 
-This is completed as part of a challenge to pull all the quotes suggested by a particular author
+This is completed as part of a challenge to pull all the quotes suggested by a particular author and uses Selenium, Java, TestNG and Maven. Once all the quotes are pulled from the website its stored into a text file
 
 ## Installation
 
